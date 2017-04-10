@@ -1,3 +1,4 @@
+package Junk;
 public class Peoplebase {
 
     Person[] personArray;
